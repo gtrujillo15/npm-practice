@@ -1,0 +1,15 @@
+{
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "Practice for NPM",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "uniq": "^1.0.1"
+  }
+}
